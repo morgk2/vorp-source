@@ -1,0 +1,16 @@
+{
+  "sourceName": "MangaHere",
+  "author": {
+    "name": "Moumen",
+    "icon": "https://via.placeholder.com/64",
+    "url": "https://github.com/moumen"
+  },
+  "iconUrl": "https://via.placeholder.com/64",
+  "version": "1.0.0",
+  "language": "en",
+  "baseUrl": "https://www.mangahere.cc",
+  "scriptUrl": "https://raw.githubusercontent.com/morgk2/vorp-source/refs/heads/main/MangaHere.js",
+  "settings": false,
+  "note": "MangaHere - Free manga reading"
+}
+
